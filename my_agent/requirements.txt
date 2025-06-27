@@ -1,0 +1,8 @@
+langchain_huggingface
+deeplake
+langgraph-supervisor
+langchain-groq
+langgraph
+langchain-community
+sentence-transformers
+langchain-google-genai
